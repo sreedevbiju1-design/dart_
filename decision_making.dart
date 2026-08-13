@@ -1,4 +1,4 @@
-void main(){
+void main() {
   // int a=5;
   // int b=15;
   // if(a>b) {
@@ -72,25 +72,100 @@ void main(){
   // if(a<60){
   //   print('f');
   // }
-  int a=10;
-  int b=35;
-  int c=22;
-  if(a>b){
-    print('a is largest');
-  }
-  if(a>c){
-    print('a is largest');
-  }
-  if(b>a){
-    print('b is largest');
-  }
-  if(b>c){
-    print('b is largest');
-  }
-  if(c>a){
-    print('c is largest');
-  }
-  if(c>b){
-    print('c is largest');
-  }
+  // int a=10;
+  // int b=35;
+  // int c=22;
+  // if(a>=b&&a>c){
+  //   print('a is greater');
+  // }
+  // if(b>=a&&b>c){
+  //   print('b is greater');
+  // }
+  // if(c>=b&&c>a){
+  //   print('c is greater');
+  // }
+//   String color='green';
+//   if(color=='red'){
+//     print('stop');
+//   }
+// else if(color=='yellow'){
+//   print('ready');
+//   }
+//   else if (color=='green'){
+//     print('go');
+//   }
+//
+//   else{
+//     print('invalid color');
+//   }
+// int salary=45000;
+//     if(salary>50000) {
+//       print('20%');
+//     }
+//    else if(salary>30000){
+//       print('10%');
+//
+//     }
+//    else{
+//      print('5%');
+//     }
+// String day='friday';
+// switch(day){
+//   case 'monday':
+//   print('monday');
+//   break;
+//   case'tuesday':
+//     print('tuesday');
+//         break;
+//   case'wednesdya':
+//     print('wednesday');
+//     break;
+//   case'thursday':
+//     print('thursday');
+//     break;
+//   default:
+//     print('not a day');{}
+// }
+// String username='hari';
+// int password=123;
+//
+//   if (username == 'hari')
+//   if (password == 123) {
+//     print('login succesfully');
+//   }
+//   else{
+//     print('wrong pssword');
+//   }
+//   else{
+//     print('wrong username');
+//   }
+
+// int balance=5000;
+// int amount=3000;
+//
+// if(amount>0)
+//   if(amount<=balance){
+//     print('withdrawal success');
+//   }
+// else{
+//   print('insufficent balance');
+//   }
+// else{
+//   print('invalid amount');
+// }
+//
+// int mark=45;
+// String a= (mark>=40)?'pass':'fail';
+// print(a);
+
+// int mark=42;
+// if(mark>=40)
+//   {
+//     print('pass');
+//   }
+// else{
+//   print('fail');
+// }
+//
+
 }
